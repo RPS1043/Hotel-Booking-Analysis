@@ -61,6 +61,4 @@
 |           ├── Drawing Recommendations
 |
 |
-│   
-├── Report
 └── Presentation
